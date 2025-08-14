@@ -37,5 +37,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 - Customer Behavior
 - Product Performance
 - Sales Trends
+
+  ---
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 ---
+
+## About Me !
+Hi there! I’m Gabriela!! a data analyst and aspiring data engineer who loves turning messy data into meaningful insights. I thrive on solving problems, building solutions, and digging deep until I find the answers.
