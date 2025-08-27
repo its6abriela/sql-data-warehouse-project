@@ -43,4 +43,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## About Me !
-Hi there! I’m Gabriela!! a data analyst and aspiring data engineer who loves turning messy data into meaningful insights. I thrive on solving problems, building solutions, and digging deep until I find the answers.
+Hi there! I’m Gabriela!! an aspiring data analyst and engineer who loves turning messy data into meaningful insights. I thrive on solving problems, building solutions, and digging deep until I find the answers.
